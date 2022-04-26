@@ -1,6 +1,6 @@
 # React JS Resume Starter Pack and Digital Portfolio
 
-![React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "React JS Portfolio Stater Pack ")
+![React JS Portfolio Starter Pack](portfolio.png?raw=true "React JS Portfolio Stater Pack ")
 
 ### <a href="https://soft-macaron-6a6b74.netlify.app/">LIVE DEMO</a>
 

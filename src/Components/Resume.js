@@ -12,6 +12,14 @@ const Resume = ({ data }) => {
             <em className="date">{education.graduated}</em>
           </p>
           <p>{education.description}</p>
+          <h3>{education.school1}</h3>
+          <p className="info">
+            {education.degree1} <span>&bull;</span>
+            <em className="date">{education.graduated1}</em>
+          </p>
+          <p>{education.description1}</p>
+
+
         </div>
       );
     });

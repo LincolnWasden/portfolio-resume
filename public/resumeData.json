@@ -1,17 +1,17 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Lincoln Wasden",
+    "occupation": "CEO of CodeMyIdea",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Lincoln! I am a developer, finishing up the MIT xPro Certificate through MIT. I've been coding since highschool so going on 6 years now",
+    "contactmessage": "Get in touch with me to be apart of CodeMyIdea",
+    "email": "lincolncostudio@gmail.com",
+    "phone": "801-709-1519",
     "address": {
       "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
+      "city": "Provo",
+      "state": "Utah",
       "zip": "W3B D3V"
     },
     "website": "https://www.papareact.com/course",
@@ -48,24 +48,37 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Massachusetts Institute of Technology (MIT)",
+        "degree": "Professional Certificate in Coding: Full Stack Development With MERN",
+        "graduated": "Current",
+        "description": "Graduating with First Class Honours",
+        "school1": "Brigham Young Univeristy",
+        "degree1": "Bachelor's Degree, Entrepreneurial Management & Minor in Computer Science",
+        "graduated1": "Current",
+        "description1": "Clubs"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
+        "company": "CodeMyIdea",
         "title": "Founder and CEO",
         "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "description": "Making all apps possible. On the way to App-ify-ing the world! Building the CodeMyIdea Fam as large as possible."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
         "level": "100%"
+      },
+     
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
       },
       {
         "name": "Python",
@@ -74,15 +87,8 @@
       {
         "name": "Git",
         "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "Web Development",
-        "level": "95%"
       }
+
     ]
   },
   "portfolio": {
